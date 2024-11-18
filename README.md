@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marcelotust
-- 👀 I’m interested in technology, people, and inovation.
-- 📫 You can reach me on https://www.linkedin.com/in/marcelotust/
+- 👋 Hi, I’m @marcelotust.
+- 👀 I’m interested in technology, people, and innovation.
+- 📫 You can reach me on LinkedIn [/marcelotust](https://www.linkedin.com/in/marcelotust/).
 
 <!---
 marcelotust/marcelotust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
