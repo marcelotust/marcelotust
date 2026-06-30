@@ -36,23 +36,3 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-### 🚀 Featured projects
-
-| Project | Description |
-| --- | --- |
-| [copado26web](https://github.com/marcelotust/copado26web) | TypeScript web application, under active development. |
-| [wedding-lp](https://github.com/marcelotust/wedding-lp) | Wedding landing page — responsive and modern UI. |
-
-> 💡 Tip: pin these repositories on your GitHub profile (Customize your pins) so they stand out on your profile page.
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelotust&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotust&layout=compact&theme=default" alt="Top languages" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelotust&theme=default" alt="GitHub streak" />
-</p>
